@@ -4,13 +4,13 @@ I am a UK based full-stack engineer with a particular enthiusiasm for front end 
 
 I love learning new technologies, languages, rock climbing and trying to get other people as enthusiastic about those pursuits as I am.
 
-I have just finished a year long sabatical which I used to tour europes best rock climbing destinations.
+I have just finished a year long sabatical which I used to tour Europe's best rock climbing destinations.
 
-Since I wasn't climbing every day I kept my skills sharp with a couple of projects:
+Since I couldn't climb __every__ day I kept my skills sharp with a couple of projects:
 
-- [FIA](https://figureit.app): A mobile app to help you deal with timezones (keeping in touch with friends is tricky!)
-- Dice words with friends (Unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament)
-- Flash Climbing (Unpublished): A rock climbing app which lets you create and share routes. Think [Peloton](https://www.onepeloton.co.uk) for rock climbing.  
+- [FIA](https://figureit.app): A mobile app to help you deal with timezones (keeping in touch with international friends is tricky!)
+- Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament)
+- Flash Climbing (unpublished): A rock climbing app which lets you create and share routes, harnessing machine learning for [grading](https://en.wikipedia.org/wiki/Grade_(climbing)) suggestions. Think somewhere between [Peloton](https://www.onepeloton.co.uk) and [Strava](https://www.strava.com) for rock climbing.  
 - [reason-standard](https://github.com/dean177/reason-standard): A portable and safe standard library enhancement for ReasonML & Ocaml. 
 
 ## Professional work
@@ -21,7 +21,7 @@ My responsibilities have included taking the role of technical consultant, techn
 
 I worked at [Pirate Studios](https://www.piratestudios.co/en-de) as a senior developer and as a senior consultant at a software consultancy called [Ghyston](https://www.ghyston.com).
 
-Here are some of the more interesting projects in that time:
+Here are some of the more interesting projects I have been involved with:
 
 **Pirate Studios - Website re-development**
 
@@ -72,9 +72,9 @@ I have contributed to many projects and have started a couple of my own, the mos
 
 A portable and safe standard library enhancement for Reason & Ocaml.
 
-### [`with-url-state`](https://github.com/dean177/with-url-state)
+### [`use-url-state`](https://github.com/dean177/use-url-state)
 
-A higher-order (or render-prop) React component which lets you bind a component's state to the URL.
+A React hook which lets you bind a component's state to the URL.
 
 ### [`react-native-json-tree`](https://github.com/Dean177/react-native-json-tree)
 
