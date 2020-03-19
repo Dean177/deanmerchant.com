@@ -74,7 +74,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-110244491-2`,
+        trackingId: `UA-11024491-2`,
       },
     },
     `gatsby-plugin-feed`,
@@ -86,7 +86,7 @@ module.exports = {
         short_name: `Dean Merchant`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#0F4C5C`,
+        theme_color: `#255F85`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
         theme_color_in_head: false,
