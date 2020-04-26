@@ -129,6 +129,8 @@ The screws penetrate the rear of the wall making it a bit of a waste of time to 
 
 We brought a tarpaulin which we can fix to the rear which can cover the entire board for rainy weather.
 
+![rain mode](rain-cover.jpeg)
+
 ## Wastage
 
 I tried to minimise the number of cuts we needed to make, which meant less labor and minimal wastage.
@@ -137,8 +139,9 @@ I tried to minimise the number of cuts we needed to make, which meant less labor
 
 After the frame was cut we did have some offcuts though, which we shaped, sanded and drilled to turn into some additional holds
 
-![]()
+![DIY holds](diy-holds.jpeg)
 
+These aren't quite finished yet.
 
 # Costs
 
