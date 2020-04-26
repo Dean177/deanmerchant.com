@@ -10,7 +10,7 @@ We recently built a #lockdownwall
 
 ![The finished wall](./finished-wall.jpeg)
 
-Heres how we did it:
+Here's how we did it:
 
 # Finding a design
 
@@ -113,7 +113,7 @@ Then once the varnish was dry we could attatch the kickboard the the main frame
 ![frame assembled](assembled-frame.jpeg)
 
 Originally we had attatched all 3 of the plywood panels to the frame, but this 
-was going to be two heavy for just two people to support whilst we attatched the stand.
+was going to be too heavy for just two people to support whilst we attatched the stand.
 
 We realised the design only meant the middle panel needed to be attatched, and without the top and bottom it was much lighter. 
 
@@ -155,16 +155,17 @@ These aren't quite finished yet.
 | L-Brackets | N/A | 25 | £13 |
 | Plates |  N/A | 10 | £3.50 |
 | T-Nuts | M10 | 200 | £15 |
-| Countersunk bolts | M10  | 200 | ??? |
+| Countersunk bolts | M10  | 200 | £31.25 |
 | Varnish | 5L   | 1 | £20 |
 | Tarpaulin | 4x5m | 1 | £25 |
 
-The wall cost £321, we spent £151.23 at Holdz and £354.80 at ClimbingHolds on holds and bolts which gave us a total cost of __£827__.
+The wall cost £352, we spent £127 at Holdz and £355 at ClimbingHolds on holds and bolts which gave us a total cost of __£835__.
 
-In total I spent a day researching and designing the frame, then two of us spent two days assembling everything.
+In total I spent a day researching and designing the frame, then two of us spent two (_long_) days assembling everything.
 
 Tools used
 - Tenon saw
+- Clamps
 - Drill
 - Impact driver
 - Paintbrush
