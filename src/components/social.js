@@ -28,3 +28,57 @@ export function Twitter(props) {
     </svg>
   );
 }
+
+export function Insta(props) {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" {...props}>
+      <linearGradient
+        id="a"
+        x1="43"
+        x2="469"
+        y1="469"
+        y2="43"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stopColor="#ffd600"></stop>
+        <stop offset="0.5" stopColor="#ff0100"></stop>
+        <stop offset="1" stopColor="#d800b9"></stop>
+      </linearGradient>
+      <linearGradient
+        id="b"
+        x1="163"
+        x2="349"
+        y1="349"
+        y2="163"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stopColor="#ff6400"></stop>
+        <stop offset="0.5" stopColor="#ff0100"></stop>
+        <stop offset="1" stopColor="#fd0056"></stop>
+      </linearGradient>
+      <linearGradient
+        id="c"
+        x1="370.9"
+        x2="414.4"
+        y1="141.1"
+        y2="97.6"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stopColor="#f30072"></stop>
+        <stop offset="1" stopColor="#e50097"></stop>
+      </linearGradient>
+      <path
+        fill="url(#a)"
+        d="M510 150c-1-27-5-45-11-62-7-17-17-32-30-45s-28-23-45-30c-17-6-35-10-62-11-28-2-36-2-106-2s-78 0-106 2c-27 1-45 5-62 11-17 7-32 17-45 30S20 71 13 88c-6 17-10 35-11 62-2 28-2 36-2 106s0 78 2 106c1 27 5 45 11 62 7 17 17 32 30 45s28 23 45 30c17 6 35 10 62 11 28 2 36 2 106 2s78 0 106-2c27-1 45-5 62-11 34-14 61-41 75-75 6-17 10-35 11-62 2-28 2-36 2-106s0-78-2-106zm-46 209c-1 25-5 39-8 48-9 22-27 40-49 49-9 3-23 7-48 8-27 2-35 2-103 2s-76 0-103-2c-25-1-39-5-48-8-11-5-21-11-29-20-9-8-15-18-20-29-3-9-7-23-8-48-2-27-2-35-2-103s0-76 2-103c1-25 5-39 8-48 5-11 11-21 20-29 8-9 18-15 29-20 9-3 23-7 48-8 27-2 35-2 103-2s76 0 103 2c25 1 39 5 48 8 11 5 21 11 29 20 9 8 15 18 20 29 3 9 7 23 8 48 2 27 2 35 2 103s0 76-2 103zm0 0"
+      ></path>
+      <path
+        fill="url(#b)"
+        d="M256 125a131 131 0 100 262 131 131 0 000-262zm0 216a85 85 0 110-170 85 85 0 010 170zm0 0"
+      ></path>
+      <path
+        fill="url(#c)"
+        d="M423 119a31 31 0 11-61 0 31 31 0 0161 0zm0 0"
+      ></path>
+    </svg>
+  );
+}

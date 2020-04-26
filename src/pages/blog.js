@@ -1,18 +1,20 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
-import Bio from '../components/bio';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import { rhythm } from '../utils/typography';
 
 export const pageQuery = graphql`
-  query {
+  query BlogPosts {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { title: { ne: "" } } }
+    ) {
       edges {
         node {
           excerpt
@@ -38,9 +40,6 @@ export default (props) => {
   return (
     <Layout location={props.location} title={siteTitle}>
       <SEO title="All posts" />
-      <aside>
-        <Bio />
-      </aside>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (

@@ -7,6 +7,7 @@ module.exports = {
     githubUrl: 'https://github.com/Dean177/deanmerchant.com',
     social: {
       github: 'Dean177',
+      instagram: 'merchant_dean',
       twitter: `@Dean177`,
     },
   },
@@ -31,7 +32,6 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/content`,
-        name: `blog`,
       },
     },
     {

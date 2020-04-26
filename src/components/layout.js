@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useStaticQuery } from 'gatsby';
 import Image from 'gatsby-image';
-import { Email, GitHub, Twitter } from './social';
+import { Email, GitHub, Insta, Twitter } from './social';
 import { rhythm, scale } from '../utils/typography';
 
 const Layout = (props) => {
@@ -22,6 +22,7 @@ const Layout = (props) => {
           social {
             github
             twitter
+            instagram
           }
         }
       }
@@ -48,7 +49,8 @@ const Layout = (props) => {
             flex-direction: row;
             margin: 0;
             text-decoration: none;
-            h1, h3 {
+            h1,
+            h3 {
               margin: 0;
             }
           `}
@@ -96,8 +98,11 @@ const Layout = (props) => {
           <a href={`https://twitter.com/${social.twitter}`}>
             <Twitter height={25} />
           </a>
-          <a href={`https://github.com/${social.twitter}`}>
+          <a href={`https://github.com/${social.github}`}>
             <GitHub height={25} />
+          </a>
+          <a href={`https://instagram.com/${social.instagram}`}>
+            <Insta height={25} />
           </a>
           <a href={`mailto:contact@deanmerchant.com`}>
             <Email height={25} />

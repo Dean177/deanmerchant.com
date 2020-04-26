@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import { css } from 'styled-components';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import { rhythm } from '../utils/typography';
@@ -20,6 +21,7 @@ export const pageQuery = graphql`
         social {
           github
           twitter
+          instagram
         }
       }
     }
@@ -40,13 +42,23 @@ export default (props) => {
   const siteTitle = props.data.site.siteMetadata.title;
   const { author, social } = props.data.site.siteMetadata;
 
+  if (page == null) {
+    return null;
+  }
+
   return (
     <Layout location={props.location} title={siteTitle}>
       <SEO
         title={page.frontmatter.title}
         description={page.frontmatter.description || page.excerpt}
-      />      
-      <article>
+      />
+      <article
+        css={css`
+          ol {
+            margin-left: ${rhythm(0.5)}px;
+          }
+        `}
+      >
         <section dangerouslySetInnerHTML={{ __html: page.html }} />
         <hr
           style={{
