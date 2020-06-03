@@ -4,7 +4,7 @@ I am a UK based full-stack engineer with a particular enthiusiasm for front end 
 
 I love learning new technologies, languages, rock climbing and trying to get other people as enthusiastic about those pursuits as I am.
 
-I have just finished a year long sabatical which I used to tour Europe's best rock climbing destinations.
+I have just finished a year long sabbatical which I used to tour Europe's best rock climbing destinations.
 
 Since I couldn't climb __every__ day I kept my skills sharp with a couple of projects:
 
