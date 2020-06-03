@@ -29,7 +29,7 @@ _Key technologies: Netlify, GraphQL, Typescript, React, Gatsby_
 
 I led the development of the new mobile (and German) friendly [Pirate Studios website](https://pirate.com/en/).
 
-The site is statically generated using [Gatsby](https://www.gatsbyjs.org/), [Prismic CMS](https://prismic.io) and some in-house infrastructure I developed which allows content authors to choose from a catalouge of versatile components in order to safely and independantly author new content.
+The site is statically generated using [Gatsby](https://www.gatsbyjs.org/), [Prismic CMS](https://prismic.io) and some in-house infrastructure I developed which allows content authors to choose from a catalouge of versatile components in order to safely and independently author new content.
 
 **Pirate Studios - Live streaming**
 
