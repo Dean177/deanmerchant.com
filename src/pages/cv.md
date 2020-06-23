@@ -38,5 +38,5 @@ Since I couldn't climb _every_ day I kept my skills sharp with a couple of proje
 
 - [FIA](https://figureit.app): A mobile app to help you deal with timezones (keeping in touch with international friends is tricky!)
 - Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament)
-- Flash Climbing (unpublished): A rock climbing app which lets you create and share routes, harnessing machine learning for [grading](https://en.wikipedia.org/wiki/Grade_(climbing)) suggestions. Think somewhere between [Peloton](https://www.onepeloton.co.uk) and [Strava](https://www.strava.com) for rock climbing.  
+- Flash Climbing (unpublished): A rock climbing app which lets you [create and share routes](https://www.instagram.com/p/B_5x0BuDx55/?utm_source=ig_web_copy_link), harnessing machine learning for [grading](https://en.wikipedia.org/wiki/Grade_(climbing)) suggestions. Think somewhere between [Peloton](https://www.onepeloton.co.uk) and [Strava](https://www.strava.com) for rock climbing.  
 - [reason-standard](https://github.com/dean177/reason-standard): A portable and safe standard library enhancement for ReasonML & Ocaml. Now merged with Tablecloth.

@@ -109,7 +109,15 @@ const Layout = (props) => {
           </a>
         </div>
       </header>
-      <main>{children}</main>
+      <main
+        css={css`
+          ul li {
+            margin-left: 1.45rem;
+          }
+        `}
+      >
+        {children}
+      </main>
     </div>
   );
 };
