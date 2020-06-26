@@ -8,7 +8,7 @@ Full-stack engineer with a particular enthusiasm for front end work (❤️ Reac
 
 _Key technologies: Netlify, GraphQL, Typescript, React, Gatsby, Heroku, Docker, Haskell, Ruby, Postgres, InfluxDB_
 
-- Lead the development of a fully internationalized, mobile first [website for Pirate Studios](https://pirate.com/en/).
+- Led the development of a fully internationalized, mobile first [website for Pirate Studios](https://pirate.com/en/).
 
 - Created a fully featured content management stack aimed at non-technical users. Developed in-house infrastructure to ensure site stability even in the presence of continual updates from content authors.
 
@@ -22,7 +22,7 @@ _Key technologies: Docker, Typescript, React, React Native, Redux, Node, C#, Pos
 
 - Trained a team of developers with no prior mobile experience in modern best practices. Delivered a new mobile app and put in place the infrastructure and processes needed for the team to take over the project post release.
 
-- Developed in-house infrastructure and a CLI app to allow instant zero-config deployments for a range of languages / frameworks for internal services and new client projects, speeding up development workflow considerably and cutting 
+- Developed in-house infrastructure and a CLI app to allow instant zero-config deployments for a range of languages / frameworks for internal services and new client projects, speeding up development workflow considerably.
 
 ## [Open Source](https://github.com/Dean177)
 
@@ -32,6 +32,7 @@ _Key technologies: Docker, Typescript, React, React Native, Redux, Node, C#, Pos
 - [`jest-to-match-shape-of`](https://github.com/Dean177/jest-to-match-shape-of) A Jest matcher to verify the shape of an object. Makes integration testing simple.
 
 ## Sabbatical
+
 I have just finished a year long sabbatical which I used to tour Europe's best rock climbing destinations.
 
 Since I couldn't climb _every_ day I kept my skills sharp with a couple of projects:
