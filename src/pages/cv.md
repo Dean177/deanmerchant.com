@@ -31,6 +31,10 @@ _Key technologies: Docker, Typescript, React, React Native, Redux, Node, C#, Pos
 - [`react-native-json-tree`](https://github.com/Dean177/react-native-json-tree) A React Native component to display JSON using a collapsible tree view, perfect for debugging.
 - [`jest-to-match-shape-of`](https://github.com/Dean177/jest-to-match-shape-of) A Jest matcher to verify the shape of an object. Makes integration testing simple.
 
+## Education
+
+I have a BSc in Mathematics (1st) from the University of Reading 
+
 ## Sabbatical
 
 I have just finished a year long sabbatical which I used to tour Europe's best rock climbing destinations.
