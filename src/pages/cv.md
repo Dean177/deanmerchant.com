@@ -4,6 +4,28 @@ Full-stack engineer with a particular enthusiasm for front end work (❤️ Reac
 
 ## Professional work
 
+**[Kairos sports](https://kairostech.io) - Lead product engineer - 2020 - Current**
+
+_Key technologies: GraphQL, Typescript, React, React native, Kubernetes, Rust, Ruby, Postgres_
+
+- Rapid development of major new features in an early stage startup environment
+
+- Overhauling infrastructure to enable faster iteration speed
+
+- Upgrading the skills of new & existing team members 
+
+
+**[Chroma climbing](https://chromaclimbing.com) - Founder - 2020 - Current**
+
+_Key technologies: GraphQL, Typescript, React, React native, Postgres_
+
+- Developed a new product for interactive climbing walls
+
+- Hardware design, mobile & web app creation
+
+- Sales & marketing
+
+
 **[Pirate Studios](https://www.piratestudios.co/en-de) - Project/Development Lead - 2018 - 2019**
 
 _Key technologies: Netlify, GraphQL, Typescript, React, Gatsby, Heroku, Docker, Haskell, Ruby, Postgres, InfluxDB_
@@ -37,11 +59,11 @@ I have a BSc in Mathematics (1st) from the University of Reading
 
 ## Sabbatical
 
-I have just finished a year long sabbatical which I used to tour Europe's best rock climbing destinations.
+In 2019 I took a sabbatical which I used to tour Europe's best rock climbing destinations.
 
 Since I couldn't climb _every_ day I kept my skills sharp with a couple of projects:
 
 - [FIA](https://figureit.app): A mobile app to help you deal with timezones (keeping in touch with international friends is tricky!)
-- Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament)
-- Flash Climbing (unpublished): A rock climbing app which lets you [create and share routes](https://www.instagram.com/p/B_5x0BuDx55/?utm_source=ig_web_copy_link), harnessing machine learning for [grading](https://en.wikipedia.org/wiki/Grade_(climbing)) suggestions. Think somewhere between [Peloton](https://www.onepeloton.co.uk) and [Strava](https://www.strava.com) for rock climbing.  
+- Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament) 
 - [reason-standard](https://github.com/dean177/reason-standard): A portable and safe standard library enhancement for ReasonML & Ocaml. Now merged with Tablecloth.
+- [Chroma climbing](https://chromaclimbing.com): I started the first prototype of what is now a business
