@@ -23,8 +23,6 @@ _Key technologies: GraphQL, Typescript, React, React native, Postgres_
 
 - Hardware design, mobile & web app creation
 
-- Sales & marketing
-
 
 **[Pirate Studios](https://www.piratestudios.co/en-de) - Project/Development Lead - 2018 - 2019**
 
@@ -66,4 +64,5 @@ Since I couldn't climb _every_ day I kept my skills sharp with a couple of proje
 - [FIA](https://figureit.app): A mobile app to help you deal with timezones (keeping in touch with international friends is tricky!)
 - Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament) 
 - [reason-standard](https://github.com/dean177/reason-standard): A portable and safe standard library enhancement for ReasonML & Ocaml. Now merged with Tablecloth.
+- [expo-leaflet](https://github.com/Dean177/expo-leaflet/blob/master/expo-leaflet/readme.md): A cross platform (web & mobile) library for interacting with maps
 - [Chroma climbing](https://chromaclimbing.com): I started the first prototype of what is now a business
