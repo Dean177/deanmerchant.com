@@ -1,12 +1,23 @@
 # Dean Merchant - CV
 
-Full-stack engineer with a particular enthusiasm for front end work (❤️ React). I love learning new technologies, languages, rock climbing and trying to get other people as enthusiastic about those pursuits as I am.
+Full-stack engineer with a particular enthusiasm for front end work and levelling up teams. I love learning new technologies, languages, rock climbing and trying to get other people as enthusiastic about those pursuits as I am.
 
 ## Professional work
 
-**[Kairos sports](https://kairostech.io) - Lead product engineer - 2020 - Current**
+**[Palantir](https://www.palantir.com) - Full stack engineer - 2022 - Current**
 
-_Key technologies: GraphQL, Typescript, React, React native, Kubernetes, Rust, Ruby, Postgres_
+_Key technologies: Foundry, GraphQL, Typescript, React, Java, Kubernetes, Rust_
+
+- Designed and implemented Pipeline builder's notional data generation feature
+
+- Currently working on AIP Logic, Froundry's keystone application for its AI Platform. Led the frontent team from conception to production
+
+
+**[Kairos sports](https://kairostech.io) - Lead product engineer - 2020 - 2022**
+
+_Key technologies: GraphQL, Typescript, React, React native, Kubernetes, Rust, Ruby, Postgres, Haskell_
+
+- Led the frontend and mobile teams
 
 - Rapid development of major new features in an early stage startup environment
 
@@ -65,4 +76,4 @@ Since I couldn't climb _every_ day I kept my skills sharp with a couple of proje
 - Dice words with friends (unpublished): I built a multi-player [boggle](https://en.wikipedia.org/wiki/Boggle) clone in a particularly rainy weekend (I did not win the boggle tournament) 
 - [reason-standard](https://github.com/dean177/reason-standard): A portable and safe standard library enhancement for ReasonML & Ocaml. Now merged with Tablecloth.
 - [expo-leaflet](https://github.com/Dean177/expo-leaflet/blob/master/expo-leaflet/readme.md): A cross platform (web & mobile) library for interacting with maps
-- [Chroma climbing](https://chromaclimbing.com): I started the first prototype of what is now a business
+- [Chroma climbing](https://chromaclimbing.com): Developed the inital prototype.
