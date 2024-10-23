@@ -8,9 +8,11 @@ Full-stack engineer with a particular enthusiasm for front end work and levellin
 
 _Key technologies: Foundry, GraphQL, Typescript, React, Java, Kubernetes, Rust_
 
+- Joined the zero-to-value team aiming to improve UX accross the plaftorm
+
 - Designed and implemented Pipeline builder's notional data generation feature
 
-- Currently working on AIP Logic, Froundry's keystone application for its AI Platform. Led the frontent team from conception to production
+- Currently working on AIP Logic, the keystone application for Palantir's AI Platform. Led the frontent team from conception to production.
 
 
 **[Kairos sports](https://kairostech.io) - Lead product engineer - 2020 - 2022**
